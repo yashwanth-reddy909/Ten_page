@@ -1,13 +1,8 @@
 Task 2
 Front-end replica of TEN website
 
-First Unzip the whole folder that you have downloaded and go to the Terminal of your window and type 
 
-cd <Your directory to the downloaded folder>	
-(eg: cd C:\Users\John\Downloads\ten_react_frontend\ten_react_frontend> )
-press enter
-
-and then type    
+clone this repository
 npm install 
 press enter it hardly takes few mins to install the packages require for this project (package.json file) 
 
